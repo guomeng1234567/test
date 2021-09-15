@@ -223,7 +223,7 @@
 		        <configuration>  
 		            <webResources>  
 		                <resource>  
-		                    <directory>web</directory>  
+		                    <directory>test</directory>  
 		                </resource>  
 		            </webResources>  
 		        </configuration>  
